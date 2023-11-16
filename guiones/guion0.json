@@ -1,0 +1,55 @@
+{   "audio" : "audios/audio simpsons User.wav",
+    "modelo":"modelos/Tecno2.glb",
+    "fondo":"rgb(0,20,50)",
+    "data" :
+        [
+            {
+                 "tiempo":"00:00",
+                 "camara":"Camara1",
+                 "target":"target1",
+                 "nombre":"General"
+            },
+             {
+               "tiempo":"00:45",
+               "camara":"Camara2",
+               "target":"target2",
+               "nombre":"Sofa"
+          },
+          {
+            "tiempo":"01:00",
+            "camara":"Camara3",
+            "target":"target3",
+            "nombre":"Pintura"
+       },
+       {
+         "tiempo":"01:25",
+         "camara":"Camara4",
+         "target":"target4",
+         "nombre":"Mesita de luz"
+    },
+    {
+      "tiempo":"01:40",
+      "camara":"Camara5",
+      "target":"target5",
+      "nombre":"Estante"
+ },
+ {
+   "tiempo":"02:00",
+   "camara":"Camara6",
+   "target":"target6",
+   "nombre":"Tele"
+},
+{
+  "tiempo":"02:20",
+  "camara":"Camara7",
+  "target":"target7",
+  "nombre":"Alfombra"
+},
+{
+  "tiempo":"02:32",
+  "camara":"Camara8",
+  "target":"target8",
+  "nombre":"falta de aire"
+}
+        ]
+}
